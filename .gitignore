@@ -1,0 +1,11 @@
+# vscode
+__pycache__
+
+# Ignore all .env files
+*.env
+
+# Ignore files inside a path named sql
+**/sql/**
+
+# Ignore all files sh
+*.sh
